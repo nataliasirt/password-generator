@@ -9,4 +9,5 @@ This website is an application that generates a random password based on user-se
 * DOM
 
 ## Website
+https://nataliasirt.github.io/password-generator/
 
