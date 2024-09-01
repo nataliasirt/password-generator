@@ -7,3 +7,6 @@ This website is an application that generates a random password based on user-se
 * CSS
 * JavaScript
 * DOM
+
+## Website
+
